@@ -1,0 +1,65 @@
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgb(255, 255, 255); 
+    border-radius: 10px;
+
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(161, 150, 224); 
+    border-radius: 10px;
+
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(125, 110, 211); 
+  }
+
+
+  
+ul{
+    width: 200px;
+    height: 70vh;
+    overflow: scroll;
+    overflow-x: hidden;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 10px;
+    
+    
+}
+
+.first-ul{
+    background-color: pink;
+}
+
+
+
+.sec-ul{
+    background-color: #FEB300;
+}
+
+
+
+.first{
+    border: 3px solid pink;
+    width: 140px;
+    border-radius: 3px; 
+    
+
+
+}
+
+.second{
+    border: 3px solid #FEB300;
+
+    width: 140px;
+    border-radius: 3px; 
+
+}
