@@ -1,25 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# description
 
-### `description`
-
-its a simple form and list made by react and redux.
+It is a simple form and list made by react and redux.
 
 
-### `install`
 
-npm install react-router-dom
+To start:
 
-npm i redux --save-dev
+    1.Download the project
+  
+    2.Run `npm install`
+  
+    3.Run `npm start`
+  
+    4.See the result on your browser
 
-npm install node-sass
-
-npm install --save react-redux
 
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 
